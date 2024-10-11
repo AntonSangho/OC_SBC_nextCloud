@@ -1,7 +1,5 @@
 # 나만의 클라우스 서버 만들기 
 
-![nextCloud](https://commons.wikimedia.org/wiki/File:File-Nextcloud_File_Manager_Screenshot.png#/media/%ED%8C%8C%EC%9D%BC:File-Nextcloud_File_Manager_Screenshot.png)
-
 : 라즈베리파이를 이용하여 나만의 클라우드 서버를 만들어보자. 
 
 ## 준비물
